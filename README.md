@@ -39,4 +39,4 @@ I've been working with dart and flutter since 2019 and I enjoy it very much 🤩
 
 
 
-![snake gif](https://github.com/furkancetintass/furkancetintass/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/furkancetintass/furkancetintass/blob/output/github-contribution-grid-snake-dark.svg)
